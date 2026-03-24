@@ -1,0 +1,6 @@
+tweepy
+openai
+python-dotenv
+markdown2
+weasyprint
+pandas
